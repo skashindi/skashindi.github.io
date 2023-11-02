@@ -1,0 +1,94 @@
+body {
+	 background-color: silver;
+	 color: white;
+}
+
+header {
+		 float: left;
+		 width: 25%;
+		 color: green;
+}
+
+nav {
+	float:right;
+	width: 70%;
+	margin: 5em 3em 0 0;
+}
+
+footer {
+	margin: auto;
+	 width: 50%;
+	 clear: both;
+}
+
+nav a {
+	 padding: 20px;
+	 color: green;
+	 background-color: pink;
+	 text-decoration: none;
+	 font-family: 'Tangerine', serif;
+	 font-size: 20px;
+}
+
+main {
+	clear: left;
+	color: black;
+	margin: 120px 0 0 0;
+}
+
+#leftColumn {
+	   float: left;
+	   width: 45%;
+	   margin: 1%;
+	   
+}
+
+#rightColumn {
+	   float: right;
+	   width: 45%;
+	   margin: 1%;
+	   
+}
+
+.borderedImage {
+	border: 1px solid white;
+	padding: 5px;
+	margin: 10px;
+	height: 520px;
+	width: 520px;
+}
+
+.centered {
+	  margin: auto;
+	  width: 50%;
+}
+
+.homelife {
+	 margin: auto;
+	 width: 50%;
+}
+
+.aboutlife {
+	 margin: auto;
+	 width: 50%;
+}
+
+.resumelife {
+	margin: auto;
+	 width: 50%;
+}
+
+.kenny {
+	margin: auto;
+	 width: 50%;
+}
+
+nav ul {
+	    list-style-type: none;
+		text-align: center;
+		margin: 0;
+}
+
+nav li {
+	 display: inline;
+}
